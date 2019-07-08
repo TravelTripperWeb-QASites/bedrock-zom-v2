@@ -1,0 +1,106 @@
+{
+  "order": "",
+  "name_localized": {
+    "en": "Central Park"
+  },
+  "sub_title_localized": {
+    "en": "It's a park"
+  },
+  "category": [
+    "Park"
+  ],
+  "location": {
+    "name": "Lincoln Center Plaza",
+    "address": "Lincoln Center Plaza, New York, NY 10023, USA",
+    "place_id": "Ei1MaW5jb2xuIENlbnRlciBQbGF6YSwgTmV3IFlvcmssIE5ZIDEwMDIzLCBVU0EiLiosChQKEglz9OgWX1jCiRHE821ShVNy8xIUChIJOwg_06VPwokRYv534QaPC8g",
+    "reference": "Ei1MaW5jb2xuIENlbnRlciBQbGF6YSwgTmV3IFlvcmssIE5ZIDEwMDIzLCBVU0EiLiosChQKEglz9OgWX1jCiRHE821ShVNy8xIUChIJOwg_06VPwokRYv534QaPC8g",
+    "latitude": 40.7724116,
+    "longitude": -73.98352729999999,
+    "google_place": {
+      "address_components": [
+        {
+          "long_name": "Lincoln Center Plaza",
+          "short_name": "Lincoln Center Plaza",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Manhattan",
+          "short_name": "Manhattan",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10023",
+          "short_name": "10023",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"street-address\">Lincoln Center Plaza</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10023</span>, <span class=\"country-name\">USA</span>",
+      "formatted_address": "Lincoln Center Plaza, New York, NY 10023, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.7724116,
+          "lng": -73.98352729999999
+        },
+        "viewport": {
+          "south": 40.77037704999994,
+          "west": -73.98557970000002,
+          "north": 40.77442725000004,
+          "east": -73.98152729999998
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id": "0553a45b7431023d881f6d48ae9fdc2598f78551",
+      "name": "Lincoln Center Plaza",
+      "place_id": "Ei1MaW5jb2xuIENlbnRlciBQbGF6YSwgTmV3IFlvcmssIE5ZIDEwMDIzLCBVU0EiLiosChQKEglz9OgWX1jCiRHE821ShVNy8xIUChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "Ei1MaW5jb2xuIENlbnRlciBQbGF6YSwgTmV3IFlvcmssIE5ZIDEwMDIzLCBVU0EiLiosChQKEglz9OgWX1jCiRHE821ShVNy8xIUChIJOwg_06VPwokRYv534QaPC8g",
+      "scope": "GOOGLE",
+      "types": [
+        "route"
+      ],
+      "url": "https://maps.google.com/?q=Lincoln+Center+Plaza,+New+York,+NY+10023,+USA&ftid=0x89c2585f16e8f473:0xf3725385526df3c4",
+      "utc_offset": -240,
+      "vicinity": "Manhattan",
+      "html_attributions": null
+    }
+  }
+}
